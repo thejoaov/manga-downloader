@@ -14,4 +14,4 @@ tqdm = "*"
 jinja2 = "*"
 
 [requires]
-python_version = "3.5"
+python_version = "3.7"
